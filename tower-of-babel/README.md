@@ -1,5 +1,5 @@
 # tower-of-babel-phaser
-Tower of babel game built using Phaser 3 game engine
+Tower of babel game built using Phaser 3 game engine.
 
 # How to run?
 1. Download the files.
